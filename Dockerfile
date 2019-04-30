@@ -1,2 +1,2 @@
-FROM node:10.10.0@sha256:499dc14186a1f363c366f39aba4cf4e0a153aabc9ee3b5b5802dc6b29e3cef36
-RUN npm install -g nativefier@7.6.11
+FROM node:12.0.0@sha256:c88ef4f7ca8d52ed50366d821e104d029f43e8686120a29541ce0371f333453f
+RUN npm install -g nativefier@7.6.12
